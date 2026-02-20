@@ -15,13 +15,13 @@
 }
 
 .loader-progress {
-    width: 0%;
+    width: 0;
     height: 100%;
     background: #007bff;
     animation: load 3s linear forwards;
 }
 
 @keyframes load {
-    0% { width: 0%; }
+    0% { width: 0; }
     100% { width: 100%; }
 }

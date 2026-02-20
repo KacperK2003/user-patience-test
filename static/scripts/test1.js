@@ -1,8 +1,10 @@
+// noinspection DuplicatedCode
+
 window.onload = function() {
     onLoad();
 }
 
-var startTime = new Date();
+const startTime = new Date();
 
 function onLoad() {
     const nextButton = document.querySelector('.next-button');

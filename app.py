@@ -1,5 +1,4 @@
 from flask import Flask
-from os import getenv
 from dotenv import load_dotenv
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
@@ -18,6 +17,6 @@ def create_app():
     from routes import register_routes
     register_routes(app, db)
 
-    migrate = Migrate(app, db)
+    Migrate(app, db)
 
     return app
