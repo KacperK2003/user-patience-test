@@ -70,6 +70,7 @@ python main.py
 ## Licencje
 
 Kod źródłowy: Objęty licencją MIT License
+
 Materiały badawcze (`KCK.pdf`): Objęty licencją [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 Prosimy o podanie autorów w przypadku wykorzystania lub cytowania wyników badania.

@@ -69,6 +69,7 @@ python main.py
 ## Licenses
 
 Source code: Licensed under the MIT License
+
 The research materials (`KCK.pdf`): Licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 Please credit the original authors if you use or reference any part of the research.
